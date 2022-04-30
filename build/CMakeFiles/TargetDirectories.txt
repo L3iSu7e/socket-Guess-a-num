@@ -1,0 +1,4 @@
+/mnt/e/Github/project/Guess_num_socket/build/CMakeFiles/client.dir
+/mnt/e/Github/project/Guess_num_socket/build/CMakeFiles/server.dir
+/mnt/e/Github/project/Guess_num_socket/build/CMakeFiles/edit_cache.dir
+/mnt/e/Github/project/Guess_num_socket/build/CMakeFiles/rebuild_cache.dir
